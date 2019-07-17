@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ALC 4 PHASE 1</string>
+    <string name="intro_text">Welcome to ALC 4.0</string>
+    <string name="myName">Mudasir Issah</string>
+    <string name="track">Track:    Android</string>
+    <string name="country">Country:    GHANA</string>
+    <string name="Email">Email:    techlensgh@gmail.com</string>
+    <string name="number">Phone Number:    054 298 6823</string>
+    <string name="username">Slack Username:   Muda</string>
+</resources>
